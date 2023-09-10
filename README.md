@@ -18,4 +18,3 @@ Hi, there!<br><br><br>I'm Diogo Carvalho (Oak), from Pernambuco, programmer for 
 ---
 [![](https://visitcount.itsvg.in/api?id=oakdio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/oakdio/output/github-contribution-grid-snake.svg)
